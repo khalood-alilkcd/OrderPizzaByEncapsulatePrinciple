@@ -1,0 +1,14 @@
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\bin\Debug\net8.0\OrderPizzaEncapsulatePriciple.exe
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\bin\Debug\net8.0\OrderPizzaEncapsulatePriciple.deps.json
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\bin\Debug\net8.0\OrderPizzaEncapsulatePriciple.runtimeconfig.json
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\bin\Debug\net8.0\OrderPizzaEncapsulatePriciple.dll
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\bin\Debug\net8.0\OrderPizzaEncapsulatePriciple.pdb
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\obj\Debug\net8.0\OrderPizzaEncapsulatePriciple.GeneratedMSBuildEditorConfig.editorconfig
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\obj\Debug\net8.0\OrderPizzaEncapsulatePriciple.AssemblyInfoInputs.cache
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\obj\Debug\net8.0\OrderPizzaEncapsulatePriciple.AssemblyInfo.cs
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\obj\Debug\net8.0\OrderPizzaEncapsulatePriciple.csproj.CoreCompileInputs.cache
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\obj\Debug\net8.0\OrderPizzaEncapsulatePriciple.dll
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\obj\Debug\net8.0\refint\OrderPizzaEncapsulatePriciple.dll
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\obj\Debug\net8.0\OrderPizzaEncapsulatePriciple.pdb
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\obj\Debug\net8.0\OrderPizzaEncapsulatePriciple.genruntimeconfig.cache
+d:\projects_C#\Design Priciples\OrderPizzaEncapsulatePriciple\obj\Debug\net8.0\ref\OrderPizzaEncapsulatePriciple.dll
